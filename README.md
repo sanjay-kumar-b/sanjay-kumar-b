@@ -178,13 +178,13 @@ Using Apex with Java-based FTP integrations.
 
 # 📊 GitHub Stats
 
-> Replace **YOUR_GITHUB_USERNAME** with your GitHub username.
+> Replace **sanjay-kumar-b** with your GitHub username.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjay-kumar-b&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-kumar-b&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=sanjay-kumar-b&theme=tokyonight)
 
 ---
 
