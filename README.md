@@ -176,18 +176,6 @@ Using Apex with Java-based FTP integrations.
 
 ---
 
-# 📊 GitHub Stats
-
-> Replace **sanjay-kumar-b** with your GitHub username.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjay-kumar-b&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-kumar-b&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sanjay-kumar-b&theme=tokyonight)
-
----
-
 # 🌟 Areas of Interest
 
 - Salesforce Platform Development
