@@ -10,7 +10,7 @@ I enjoy solving complex business problems through clean, maintainable, and high-
 
 ## 👨‍💻 About Me
 
-- 💼 Senior Salesforce Developer at **HiBiz Solutions**
+- 💼 Senior Associate Consultant (Salesforce Developer) at **Infosys**
 - ☁️ 3+ years of Salesforce Development experience
 - 🏆 Salesforce Certified Platform Developer I
 - 🤖 Salesforce Certified Agentforce Specialist
